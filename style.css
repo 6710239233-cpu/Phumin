@@ -1,0 +1,22 @@
+.banner{
+    width: 100%;
+    max-width: 100%;
+}
+.banner img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.navbar {
+    background: blueviolet;
+    padding: 12px;
+    display: flex;
+    gap: 20px;
+}
+.navbar a {
+    color: aqua;
+    text-decoration: none;
+}
+.navbar a:hover {
+    color: coral;
+}
